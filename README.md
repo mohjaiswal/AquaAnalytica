@@ -1,6 +1,6 @@
 # AquaPredictor: Ensuring Water Quality & Safety
 
-![Header Image](https://github.com/user/AquaPredictor/blob/main/header_image.png)
+![Header Image](https://github.com/mohjaiswal/AquaAnalytica/blob/e52bd2dc695cc0eecf8f700a53617a3be0cf562c/AquaAnalyticaHeader.webp)
 ### Analytics Report prepared by Moh Jaiswal
 
 ## Introduction
