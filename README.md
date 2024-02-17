@@ -29,6 +29,7 @@ Through an exhaustive analysis, AquaPredictor has unearthed several critical ins
 ## Conclusion and Insights from Advanced Analysis
 
 Our project's in-depth analysis, utilizing advanced machine learning techniques and hyperparameter optimization via GridSearchCV, has unveiled critical insights into water potability factors. By examining the effects of removing specific features like Turbidity, Conductivity, Trihalomethanes, Organic Carbon, and Solids, we have identified their influence on the models' predictive accuracies.
+![Output](https://github.com/mohjaiswal/AquaAnalytica/blob/a19b1629a5c5361f9bd65bda82b5cca96b7b25e9/Model%20Performance.jpg)
 
 ### Intelligent Insights from Data
 - **SVC and Random Forest models excel** in predicting water potability, indicating their robustness and suitability for this task. The notable accuracy improvement with the removal of 'Turbidity' from the SVC model suggests turbidity's lesser predictive value compared to other factors.
